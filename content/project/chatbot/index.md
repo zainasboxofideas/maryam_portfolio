@@ -1,7 +1,7 @@
 ---
 title: Product Landing Page
 date: 2023-09-15
-external_link: https://codepen.io/372_-Maryam-Zaina/pen/abejjGp
+external_link: https://codepen.io/372_-Maryam-Zaina/full/abejjGp
 tags:
   - html
   - css
