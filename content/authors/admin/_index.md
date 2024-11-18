@@ -10,8 +10,8 @@ first_name: Maryam
 last_name: Zaina
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+  #icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -41,7 +41,7 @@ profiles:
 interests:
   - Machine Learning
   - Computer Security
-  - Algorithms
+  - Web Design
 
 education:
   - area: Bachelor's at Computer Science and Engineering
@@ -85,9 +85,9 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: HTML/CSS
         description: ''
-        percent: 40
+        percent: 70
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
