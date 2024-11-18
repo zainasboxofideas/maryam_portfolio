@@ -1,12 +1,12 @@
 ---
-title: Euphoria Chatbot
+title: Product Landing Page
 date: 2023-09-15
-external_link: https://github.com/zainasboxofideas/euphoria
+external_link: https://codepen.io/372_-Maryam-Zaina/pen/abejjGp
 tags:
-  - Java
-  - JavaFX
-  - Sockets
+  - html
+  - css
+  
 ---
 
-Created a chatbot using JavaFX for graphical interfaces and Java Sockets for real-time communication. Focused on implementing conversation logic and interactive features.
+Designed and developed a visually engaging and user-friendly landing page for a café. The page features an intuitive layout, compelling visuals, and responsive design to enhance user experience across devices. Integrated key elements such as menu highlights, customer reviews, a reservation system, and seamless social media links. Focused on modern aesthetics and functionality to effectively capture the café’s brand identity and drive user engagement.
 
