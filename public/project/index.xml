@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>Portfolio Website</title>
+      <link>http://localhost:1313/project/portfolio/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/portfolio/</guid>
+      <description>&lt;p&gt;Designed and developed a personal portfolio website to showcase projects, achievements, and skills. Utilized HTML, CSS, and JavaScript for a responsive and modern design.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Euphoria Chatbot</title>
+      <link>http://localhost:1313/project/chatbot/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/chatbot/</guid>
+      <description>&lt;p&gt;Created a chatbot using JavaFX for graphical interfaces and Java Sockets for real-time communication. Focused on implementing conversation logic and interactive features.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CalorieTracker</title>
+      <link>http://localhost:1313/project/calorietracker/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/calorietracker/</guid>
+      <description>&lt;p&gt;Developed a diet planner application that provided personalized diet recommendations based on users&amp;rsquo; age, weight, and other factors. Designed and implemented modules for managing user and dietary data.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

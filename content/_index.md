@@ -32,76 +32,31 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      id: "interests"
+      title: '📚 My Interests'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m an aspiring computer scientist with a passion for problem-solving, programming, and creative design. Currently pursuing a BSc in Computer Science and Engineering at Jahangirnagar University, I thrive at the intersection of technology and innovation.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My journey includes developing software projects like chatbots and dietary planners, mentoring students in programming, and contributing to initiatives that combine technology and social impact. Whether it's exploring algorithms, mastering new frameworks, or designing user-friendly applications, I'm always eager to grow and make an impact.
+
+        Feel free to connect if you'd like to collaborate on exciting projects or share ideas! 😊
+
+
     design:
       columns: '1'
   - block: collection
-    id: papers
     content:
-      title: Featured Publications
+      title: Selected Projects
+      text: 
       filters:
         folders:
-          - publication
-        featured_only: true
+          - project
     design:
       view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      fill_image: false
+      columns: 3
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
