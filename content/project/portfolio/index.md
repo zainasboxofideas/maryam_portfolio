@@ -2,7 +2,7 @@
 
 title: Portfolio Website
 date: 2024-11-18
-external_link: https://github.com/zainasboxofideas/maryam_portfolio
+external_link: https://www.freecodecamp.org/certification/maryam_zaina/responsive-web-design
 tags:
   - HTML
   - CSS
